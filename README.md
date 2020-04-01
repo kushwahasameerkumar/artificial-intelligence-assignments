@@ -11,6 +11,7 @@ Run via following command
 
 Run via following command
 > ./grouping
+
 **NOTE:-** As the initial population is totaly a random distribution and crossovers depends on it to a huge extent, so performance also varies with each executions of the program.
 
 ## Stick game

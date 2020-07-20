@@ -1,0 +1,1005 @@
+=>Initialize popultaion
+
+=>Calculate fitness
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	2 1 3 3 2 1 2 1 1 	fitness score = 1345
+chromosome 2 :	3 3 3 2 3 1 2 3 3 	fitness score = 1214
+chromosome 3 :	1 2 2 3 3 3 3 3 1 	fitness score = 916
+chromosome 4 :	3 1 2 2 3 1 3 1 1 	fitness score = 1345
+chromosome 5 :	2 1 3 1 3 1 3 3 3 	fitness score = 1207
+chromosome 6 :	1 3 2 3 2 2 2 1 3 	fitness score = 1084
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 2 3 3 3 3 3 1 	fitness score = 916
+chromosome 2 :	1 3 2 3 2 2 2 1 3 	fitness score = 1084
+chromosome 3 :	2 1 3 1 3 1 3 3 3 	fitness score = 1207
+chromosome 4 :	3 3 3 2 3 1 2 3 3 	fitness score = 1214
+chromosome 5 :	2 1 3 3 2 1 2 1 1 	fitness score = 1345
+chromosome 6 :	3 1 2 2 3 1 3 1 1 	fitness score = 1345
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	3 1 1 1 2 1 2 2 2 	fitness score = 846
+chromosome 2 :	1 2 2 3 3 3 3 3 1 	fitness score = 916
+chromosome 3 :	3 1 1 2 2 2 3 3 3 	fitness score = 918
+chromosome 4 :	1 3 2 3 2 2 2 1 3 	fitness score = 1084
+chromosome 5 :	2 1 3 1 3 1 3 3 3 	fitness score = 1207
+chromosome 6 :	3 3 3 2 3 1 2 3 3 	fitness score = 1214
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	3 1 1 1 2 1 2 2 2 	fitness score = 846
+chromosome 2 :	3 1 3 2 2 2 2 3 1 	fitness score = 891
+chromosome 3 :	1 2 2 3 3 3 3 3 1 	fitness score = 916
+chromosome 4 :	3 1 1 2 2 2 3 3 3 	fitness score = 918
+chromosome 5 :	1 3 2 3 2 2 2 1 3 	fitness score = 1084
+chromosome 6 :	2 3 3 3 1 2 3 3 3 	fitness score = 1176
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 2 :	3 1 3 3 1 2 1 3 3 	fitness score = 735
+chromosome 3 :	1 3 3 1 2 1 2 1 1 	fitness score = 839
+chromosome 4 :	3 1 1 1 2 1 2 2 2 	fitness score = 846
+chromosome 5 :	2 3 1 3 3 2 3 2 2 	fitness score = 847
+chromosome 6 :	3 1 3 2 2 2 2 3 1 	fitness score = 891
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 3 :	3 1 3 3 1 2 1 3 3 	fitness score = 735
+chromosome 4 :	1 3 3 1 2 1 2 1 1 	fitness score = 839
+chromosome 5 :	3 1 1 1 2 1 2 2 2 	fitness score = 846
+chromosome 6 :	2 3 1 3 3 2 3 2 2 	fitness score = 847
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 3 :	1 3 1 2 2 3 3 2 2 	fitness score = 607
+chromosome 4 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 5 :	3 1 3 3 1 2 1 3 3 	fitness score = 735
+chromosome 6 :	3 3 1 1 3 1 1 1 2 	fitness score = 766
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 3 :	1 3 1 2 2 3 3 2 2 	fitness score = 607
+chromosome 4 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 5 :	1 2 1 3 3 2 3 1 3 	fitness score = 647
+chromosome 6 :	3 1 3 3 1 2 1 3 3 	fitness score = 735
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 4 :	1 3 1 2 2 3 3 2 2 	fitness score = 607
+chromosome 5 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 6 :	1 2 1 3 3 2 3 1 3 	fitness score = 647
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 4 :	1 3 1 2 2 3 3 2 2 	fitness score = 607
+chromosome 5 :	2 3 2 2 2 2 3 3 1 	fitness score = 626
+chromosome 6 :	1 2 1 3 3 2 3 1 3 	fitness score = 647
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 4 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 5 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 6 :	1 3 3 1 2 1 3 2 2 	fitness score = 569
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 4 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 5 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 6 :	1 3 3 1 2 1 3 2 2 	fitness score = 569
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 4 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 5 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 6 :	1 3 3 1 2 1 3 2 2 	fitness score = 569
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 4 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 5 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 6 :	1 3 3 1 2 1 3 2 2 	fitness score = 569
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 4 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 5 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+chromosome 6 :	1 3 3 1 2 1 3 2 2 	fitness score = 569
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 4 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 5 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 6 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 4 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 5 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+chromosome 6 :	3 2 1 1 2 2 2 3 1 	fitness score = 541
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 6 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 6 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 6 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 6 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+chromosome 6 :	2 3 1 3 1 3 3 2 1 	fitness score = 521
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 4 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 5 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+chromosome 6 :	3 2 1 2 2 1 2 2 2 	fitness score = 510
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+chromosome 6 :	3 2 3 2 2 2 2 1 1 	fitness score = 455
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=>Crossover
+
+=>Mutation
+
+=>Calculate fitness
+
+=>Selection
+
+------------------------Current populations------------------------
+
+* A higher fitness score signifies higher diversity in distribution and vice-versa.
+* Fittest 6 (i.e selecions / default POPULATION_SIZE) from previous generation are being shown only.
+* Performance can be made better by increasing the limit of fitness_count variable i.e. controlling convergence. Currently set to 20 iteration if no update found in population, set it to 1000+ for large number of students for better performance.
+
+chromosome 1 :	1 2 3 2 2 2 3 1 1 	fitness score = 201
+chromosome 2 :	2 2 2 2 3 3 3 1 2 	fitness score = 293
+chromosome 3 :	2 1 1 3 2 1 3 2 1 	fitness score = 317
+chromosome 4 :	1 1 2 2 3 3 2 1 2 	fitness score = 389
+chromosome 5 :	1 1 2 2 1 2 2 3 3 	fitness score = 389
+chromosome 6 :	2 3 3 2 1 2 2 1 1 	fitness score = 421
+
+=> Population converged
+
+
+
+=>=> Solution: Chromosome with the least fitness score in the last population is a better distribution with less diversity of marks.
+
+* As the initial population was totaly a random distribution and crossovers depends on it to a huge extent, so performance also varies with different executions of the program.

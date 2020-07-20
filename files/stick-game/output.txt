@@ -1,0 +1,19 @@
+Menu:
+1. AI vs Human
+2.AI vs AI
+Enter your choice: 2
+Enter the number of sticks: 14
+
+Playing AI vs AI
+
+Player A: 1
+Player B:       1
+Player A: 3
+Player B:       1
+Player A: 3
+Player B:       1
+Player A: 3
+Player B:       1
+
+Game Over !
+Player A won !!!
